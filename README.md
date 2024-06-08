@@ -1,7 +1,7 @@
 # Pocket Weather Application
 
 # Project Live
-[Visit our website](https://kraft-shala-pocket-weather.vercel.app/)
+[Visit website](https://kraft-shala-pocket-weather.vercel.app/)
 
 
 ## Overview
@@ -23,4 +23,4 @@ To set up the Pocket Weather Application on your local machine, follow these ste
    ```sh
    git clone https://github.com/yourusername/pocket-weather-app.git
 
-![Alt text](https://ibb.co/9GNyzLc)
+[Alt text](https://www.imghippo.com/i/lK4cj1717841888.png)
