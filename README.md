@@ -23,4 +23,3 @@ To set up the Pocket Weather Application on your local machine, follow these ste
    ```sh
    git clone https://github.com/yourusername/pocket-weather-app.git
 
-[Alt text](https://www.imghippo.com/i/lK4cj1717841888.png)
