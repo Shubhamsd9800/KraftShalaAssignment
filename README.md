@@ -1,5 +1,9 @@
 # Pocket Weather Application
 
+## Project Demo
+
+![Pocket Weather](https://kraft-shala-pocket-weather.vercel.app/)
+
 ## Overview
 
 The Pocket Weather Application is a user-friendly tool designed to fetch and display current weather information for the user's local area, as well as any specified city or pincode. The application provides detailed weather data, including temperature, humidity, cloud cover, wind speed, and the date and time of the weather report.
@@ -18,6 +22,5 @@ To set up the Pocket Weather Application on your local machine, follow these ste
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/yourusername/pocket-weather-app.git
-## Project Demo
 
-![Project Demo](https://ibb.co/9GNyzLc "Project Demo Screenshot")
+<img src="assets/Screenshot 2024-06-08 152401" alt="Project Demo Screenshot">
