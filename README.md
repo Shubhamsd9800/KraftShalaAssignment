@@ -1,8 +1,8 @@
 # Pocket Weather Application
 
 # Project Live
+[Visit our website](https://kraft-shala-pocket-weather.vercel.app/)
 
-![Pocket Weather](https://kraft-shala-pocket-weather.vercel.app/)
 
 ## Overview
 
